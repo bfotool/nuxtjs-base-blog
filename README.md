@@ -14,6 +14,12 @@ A professional, full-featured blog application built with **Nuxt 3**, **Vue 3**,
 
 ## Description
 
+📖 **Source code guide:** [Link to the guide article](https://bfotool.com/blog/nuxt-3-base-blog-template-bfotool-nuxtjs-base-blog-vue-3-typescript-tailwind) — explains project structure, how to run, and how to customize.
+
+*(Replace `https://bfotool.com/blog/nuxt-3-base-blog-template-bfotool-nuxtjs-base-blog-vue-3-typescript-tailwind` with your actual guide article URL.)*
+
+---
+
 **Bfotool Blog** is a full-featured blog application built with **Nuxt 3**, **Vue 3**, **TypeScript**, and **Tailwind CSS**. The source code provides:
 
 - **Complete blog frontend**: Home, post detail, categories, search, about, and contact pages with a responsive UI and dark/light theme.

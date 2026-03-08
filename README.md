@@ -144,8 +144,8 @@ Suitable as a base for personal or company blogs, or as a learning template for 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/nuxtjs-blog.git
-cd nuxtjs-blog
+git clone https://github.com/bfotool/nuxtjs-base-blog.git
+cd nuxtjs-base-blog
 
 # Install dependencies
 npm install

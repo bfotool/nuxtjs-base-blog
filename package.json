@@ -1,0 +1,37 @@
+{
+  "name": "nuxtjs-blog",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A professional Nuxt 3 blog with fake API layer, dark mode, search, and pagination",
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "format": "prettier --write \"**/*.{ts,vue,js,json,css,md}\"",
+    "format:check": "prettier --check \"**/*.{ts,vue,js,json,css,md}\"",
+    "type-check": "nuxi typecheck"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "pinia": "^2.3.0",
+    "@pinia/nuxt": "^0.9.0"
+  },
+  "devDependencies": {
+    "nuxt": "^3.15.0",
+    "vue": "^3.5.0",
+    "vue-router": "^4.5.0",
+    "@nuxt/eslint": "^0.7.0",
+    "@nuxt/icon": "^1.10.0",
+    "@nuxtjs/tailwindcss": "^6.13.0",
+    "@nuxtjs/color-mode": "^3.5.0",
+    "tailwindcss": "^3.4.0",
+    "typescript": "^5.7.0",
+    "prettier": "^3.4.2",
+    "prettier-plugin-tailwindcss": "^0.6.9"
+  }
+}
